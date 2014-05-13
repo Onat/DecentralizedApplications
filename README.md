@@ -73,19 +73,19 @@ Section C. - Etymology - Decentralized Applications part of a larger framework.
 
 Bitcoin is sometimes termed as a cryptocurrency though one can also say Bitcoin is a protocol; developers at [Invictus Innovations](http://invictus-innovations.com/) have described Bitcoin as a “Distributed Autonomous Corporation[[1]][2]” while its creator himself, Satoshi Nakamoto, described it in his white paper as “A Peer-to-Peer Electronic Cash System[[2]][3]”.
 
-This paper makes the case that Bitcoin and a rapidly growing number of projects in the Bitcoin eco-system may be best classified as “Decentralized Applications” (Decentralized Apps or Distributed Apps for short or informal use).
+This paper makes the case that Bitcoin and a rapidly growing number of projects in the Bitcoin eco-system may be best classified as “Decentralized Applications” (Decentralized Apps, Distributed Apps or DApps for short or informal use).
 
-### 2\. Separating Description of Utility From Classification
+### 2\. Separating Use-Case From Classification
 
 Actually Satoshi Nakamoto’s description of what Bitcoin does (in the sense of its utility), is spot on from a technical perspective. Bitcoin solves the core issues around implementing a trustless and scalable “Electronic Cash System” using a peer-to-peer blockchain protocol. However for the purposes of this discussion, let us separate this description of Bitcoin’s utility from how we ought to properly classify it.
 
 For example, many would describe Apple Inc. as a company that designs, develops, and sells consumer electronics, computer software and personal computers, however, one should classify Apple Inc. as a “Multinational Corporation[[3]][4]”.
 
-### 3\. Why Classify Bitcoin and related projects as “Decentralized Applications”?
+### 3\. Why Classify Bitcoin and related projects as a “Decentralized Application”?
 
-Firstly, on “Application(s)”, this word serves as an anchor to the term as it is universally understood by the wider population and equally important it describes the way users primarily interact with Bitcoin and related entities. That is through the client “Applications” that implement the Bitcoin protocol. These applications which implement the Bitcoin protocol are the tangible interfaces which the public users of the services experience. It seems self-evident that the Bitcoin open source project is best classified as a set of “Applications” that implement the Bitcoin Protocol. A user downloads it on their computer, an IT professional can run it on their servers, developers contribute to the code base, and end users purchase tokens to use the system.
+First, on “Application(s)”, This word serves as an anchor to the term as it is universally understood by the wider population and, equally important, it describes the way users primarily interact with Bitcoin and related entities. That is through the client “Applications” that implement the Bitcoin protocol. These applications which implement the Bitcoin protocol are the tangible interfaces with which the public users experience the service. It seems self-evident that the Bitcoin open source project is best classified as a member of the set of “Applications” that implement the Bitcoin Protocol. A user downloads the client on their computer, an IT professional can run a node on their servers, developers contribute to the code base, and end users purchase tokens to use the system.
 
-Second, on “Decentralized”, this word serves as the distinguishing classifier in the term, setting it apart from a normal “Application”. Defined as: “the process of redistributing or dispersing functions, powers, people or things away from a central location or authority” captures the essence of the intended meaning. The word decentralized brings to mind positive images of the internet, peer to peer services younger demographics are familiar with, and is generally understood by the populace, though not often used and thus open for use in branding. The features that qualify an application as “Decentralized” align well with the term include, open source code base, a token system that provides self sustaining monetization, operates transparently on a decentralized blockchain, and any changes to the protocol must be approved by majority consensus.
+Second, on “Decentralized”, this word serves as the distinguishing classifier in the term, setting it apart from a normal “Application”. Defined as: “the process of redistributing or dispersing functions, powers, people or things away from a central location or authority” captures the essence of the intended meaning. The word decentralized brings to mind positive images of the internet, peer to peer services younger demographics are familiar with, and is generally understood by the populace, though not often used and thus open for use in branding. The features that qualify an application as “Decentralized” align well with other terms such as, open source code base, a token system that provides self sustaining monetization, operates transparently on a decentralized blockchain, and any changes to the protocol must be approved by majority consensus.
 
 ### 4\. Types of Decentralized Applications
 
@@ -97,7 +97,7 @@ Let us classify Bitcoin as the baseline Type I Decentralized Apps and agree that
 
 **B. Type II Decentralized Applications**
 
-Let us classify [Mastercoin][5]&nbsp;as a Type II DA and agree that other similar Decentralized Apps are based on Type I Decentralized Apps with existing blockchain(s), and also have independent protocols &amp; tokens of their own.
+Let us classify [Mastercoin][5]&nbsp;as a Type II DApp and agree that other similar Decentralized Apps are based on Type I Decentralized Apps with an existing blockchain(s).These type II DApps also have independent protocols &amp; and tokens native to their implementation.
 
 **C. Type III Decentralized Applications**
 
@@ -107,7 +107,7 @@ Let us consider “healthcoin” as an example of a Type III DA and agree that o
 
 These type based classifications and an understanding of the network effect implies a natural ecosystem is developing where there are a relatively small number of Type I Decentralized Apps, more Type II Decentralized Apps and still more Type III Decentralized Apps. A useful frame of reference would be: there are a small number of widely used computer “Operating Systems” (Linux, Android, OSX, Windows), a larger number of “Technology Stacks” (Google, Apple, Facebook, Amazon, Twitter, Evernote, Dropbox) that work on top of these operating systems, and a much larger number of end-user applications built on top of these technology stacks.
 
-### 5\. Establishing Consensus - Proof of Work, Proof of Stake, and Decentralized Apps
+### 5\. Establishing Consensus - Proof of Work, Proof of Stake, and Proof of Resources in Decentralized Apps
 
 **A. Proof of Work**
 
@@ -143,7 +143,7 @@ In the case of Mastercoins an additional 10% amount of “Dev MSC” tokens (56,
 
 **A. The Whitepaper / Protocol is Proposed**
 
-As in the case of Bitcoin, the most common way for a Decentralized Application to take form is for its creator(s) to publically release a white paper describing its protocol, features, and other factors around implementation of client applications. This is a particularly important stage as developer feedback and general awareness of the proposal is critical in order for the proposal to gain traction. In our view proposing new Decentralized Apps based on the fundamentals we included in our definition is the most likely to attract supporters and collaborators to join an effort.
+As in the case of Bitcoin, the most common way for a Decentralized Application to take form is for its creator(s) to publicly release a white paper describing its protocol, features, and other factors around implementation of client applications. This is a particularly important stage as developer feedback and general awareness of the proposal is critical in order for the proposal to gain traction. In our view proposing new Decentralized Apps based on the fundamentals we included in our definition is the most likely to attract supporters and collaborators to join an effort.
 
 The strongest foundation appears to be with the projects that are:
 
@@ -156,33 +156,33 @@ The strongest foundation appears to be with the projects that are:
 
 **B. The First Distribution of Tokens / First Client Application Released**
 
-In both cases of a Mining style distribution or a Kickstarter style distribution the application really begins to take shape as the first tokens are distributed using the first client application which has been implemented according to the protocol. In the case of Bitcoin, this was the original Bitcoin-QT client and the Genesis block. In the case of Mastercoin, this was the Mastercoin Advisor script and the Exodus Address.
+In both cases of a Mining style distribution or a Crowdsale style distribution the application really begins to take shape as the first tokens are distributed using the first client application which has been implemented according to the protocol. In the case of Bitcoin, this was the original Bitcoin-QT client and the Genesis block. In the case of Mastercoin, this was the Mastercoin Advisor script and the Exodus Address.
 
 **C. Multiple Clients Implemented / Distribution of Dev Tokens**
 
-As developers begin creating multiple applications that implement the protocol there is a period of testing to ensure the different versions agree on which actions are valid and which are invalid. For those Decentralized Applications that utilize a Collaboration method to distribute tokens, their contributors begin collecting bounties of Dev tokens from the value they provide.
+As developers begin creating multiple applications that implement the protocol there is a period of testing to ensure the different versions agree on which actions are valid and which are invalid. For those Decentralized Applications that utilize a collaboration method to distribute tokens, their contributors begin collecting bounties of Dev tokens from the value they provide.
 
 **D. Market for Tokens / Wider Adoption / Distribution of Ownership**
 
-As tokens from mining, kickstarter and/or collaboration activities spread, the ownership of the Decentralized App the distribution of ownership should naturally move to a great number of participants and thus remove control from any entity that held a majority of the tokens at an earlier growth stage. By some estimates, Satoshi Nakamoto mined many of the first 1,000,000 Bitcoins. However, as the network grew, other mining participants provided competition and now more than 12,000,000 Bitcoins are in circulation and thus have diluted Satoshi’s high original ownership stake.
+As tokens from mining, crowdsale and/or collaboration activities spread, the ownership of the Decentralized App Tokens should naturally move to a great number of participants and thus remove control from any entity that held a majority of the tokens at an earlier growth stage. By some estimates, Satoshi Nakamoto mined many of the first 1,000,000 Bitcoins. However, as the network grew, other mining participants provided competition and now more than 12,000,000 Bitcoins are in circulation and thus have diluted Satoshi’s high original ownership stake.
 
 As the application begins to mature with enough participants taking part, division of labor effects encourage different actors with different skill sets to contribute value to the application in the ways they feel they can be the most helpful. &nbsp; &nbsp;
 
-### 8\. An economic model for why token based Decentralized Applications are a viral operational model.
+### 8\. An economic view for why token based Decentralized Applications are a viral operational model.
 
-Token based systems are so effective in becoming self sustaining because they empower the individual to have a stake in the outcome. The token is naturally transferred over time through market forces to the person that values it most highly. Uniquely when the token is held in a Decentralized Application this individual is empowered to play what ever role he or she chooses to add value to the project. The roles of investor, developer, promoter, evangelist, are all available and open to any token holder willing to provide that value to the Decentralized Application.
+Token based systems are so effective in becoming self sustaining because they empower the individual to have a stake in the outcome. The token is naturally transferred over time through market forces to the person that values it most highly. Uniquely when the token is held in a Decentralized Application this individual is empowered to play what ever role he or she chooses to add value to the project by. The roles of the investor, the developer, the promoter, the evangelist, are all available and open to any token holder willing to provide that value to the Decentralized Application, and contribute to the higher valuation of his/her token ownership.
 
 For example in the case of the Bitcoin application, as developers contributed code and miners contributed hashing power to the network, the market generally began to value the Bitcoin tokens more highly as the system matured and could provide more and more utility to its users. The market has decided at the time of writing the bitcoins are worth $7 Billion USD in total[[5]][7]. Now there are 7,000,000,000 reasons for developers and token holders to improve this system and contribute to its success.
 
-Or similarly in the case of the Mastercoin application, funders desired the features described in the Mastercoin protocol and contributed Bitcoins to their development and generated initial tokens. As developers collaborated and contributed code to the Mastercoin client applications, token holders began placing a value on these tokens. The market has decided at the time of writing Mastercoins are worth $50 Million USD in total. Now there are 50,000,000 reasons for developers earning “Dev MSC” and existing token holders to improve this system and contribute to its success. Which in turn will attract more smart developers, whom will add more value to the application, which in turn will increase the value of the MSC, which will in turn attract more smart developers and so on.
+Similarly, in the case of the Mastercoin application, funders desired the features described in the Mastercoin protocol and contributed Bitcoins to their development and generated initial tokens. As developers collaborated and contributed code to the Mastercoin client /pplications, token holders began placing a value on these tokens. The market has decided at the time of writing Mastercoins are worth $50 Million USD in total. Now there are 50,000,000 reasons for developers earning “Dev MSC” and existing token holders to improve/maintain this system to contribute to its success. This user particiaption can the generate a virtuous cycle where ownership attracts more smart developers, who add more value to the application, which in turn will increase demand for and value of the MSC, only to be more attractive to additional talent willing to contribute to gain ownership of this now even more valuable asset.
 
 ### 9\. Open Source as the legal model for Decentralized Applications.
 
-Open source programs have blazed a trail for establishing the legal groundwork for Decentralized Applications to build on. A variety of license structures exist which have served the Bitcoin community well and make clear the intentions of the protocol creator to open the innovations of his or her work without restriction of copyright or patent.
+Open source programs have blazed a trail for through which we can establish the legal groundwork for Decentralized Applications. A variety of license structures have served the Bitcoin community well and has allowed the protocol creators to open the innovations of his/her work withouth restriction of copyright or patent.
 
 The Bitcoin project for example operates under the open source [MIT license][8].
 
-The Mastercoin project similarly requires all submissions to its competitions to be open sourced and available to the community.
+The Mastercoin project similarly requires all submissions to its competitions and events to be open sourced and available to the community.
 
 ### 10\. The Coming Wave of Type III Decentralized Applications Built On Top of The Bitcoin Protocol - Additional Layers such as Mastercoin Protocol
 
@@ -196,7 +196,7 @@ Pull request #2738 lets developers associate up to 80 bytes of arbitrary data wi
 
 **B. New Protocol Layers On Bitcoin Rapidly Developing**
 
-This development is an incredibly important for protocols that are being developed on top of the Bitcoin protocol. With the door to the Bitcoin protocol wide open the imagination is the only limit to the types of services that can be provided. These new services benefit from the encryption infrastructure of Bitcoin and the increasingly impossible to attack size of the Bitcoin hashing power / network.
+This development is incredibly important for protocols that are being developed on top of the Bitcoin protocol. With the door to the Bitcoin protocol wide open, imagination is the only limit to the types of services that can be provided. These new services benefit from the encryption infrastructure of Bitcoin and the increasingly impossible to attack size of the Bitcoin hashing power / network.
 
 One of the first such protocol layers to be developed on top of the Bitcoin protocol is the Mastercoin protocol. The decentralized application launched shortly before the update to the Bitcoin protocol and when the announcement was made, the developers of the Mastercoin protocol moved to update their protocol in accordance with these new type of provably prune able outputs.
 
